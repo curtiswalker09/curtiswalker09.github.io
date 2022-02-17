@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--meta-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- seo -->
+    <title>Title goes here</title>
+    <meta name="description" content="Description goes here">
+    <!-- css -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Content will go here</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores quaerat.</p>
+</body>
+
+</html>
