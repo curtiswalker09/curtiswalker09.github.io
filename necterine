@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="with=device-width, initial-scale=1.0">
+    <title>Necterine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="https://images.app.goo.gl/WizFiCgsH5w84jb69"></a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">Company Description</a></li>
+                    <li><a href="">Job Description</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="text-box">
+            <h1>Best Horseracing Lessons</h1>
+            <p>We are a company called Necterine that produces the best horse racing lessons for beginners. We pride
+                ourselves in our
+                high quality. Our target audience is women. We want to convey a sense of elegance, while at the same
+                time being professional.</p>
+
+            <h2>Job Details</h2>
+            <p>You must create a website that will mainly provide information. The goal is to make the website easy to
+                navigate. Besides the landing page, the website will need a about page, product pages and a privacy
+                policy page. The landing page should have a Contact Us section. There should be a call to action to get
+                users to order a free sample. They would prefer a minimal design, and would like you to use the brand
+                color, which is orange. Take into account the client's preferences and values.</p>
+            <a href="">Visit Us to Know More</a>
+        </div>
+    </section>
+
+
+
+</body>
+
+</html>
