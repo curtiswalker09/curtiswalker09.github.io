@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head> -
+    <title>Curtis' Steakhouse</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Rib Eyes and Filet Mignons</h1>
+        <p>The ribeye is carved from the primal section called the beef rib. This section of the animal naturally
+            collects more intrmuscular fat. Filet mignon is a cut of meat taken from the smaller end of the tenderloin.
+        </p>
+
+        <div class="row">
+            <div class="col-md-4">
+                <h2>New York Strip</h2>
+                <i>NY strip steak comes from the short loin of the cattle.</i>
+            </div>
+            <div class="col-md-4">
+                <h2>Sirloin</h2>
+                <i>The sirloin steak is cut from the sirloin.</i>
+            </div>
+            <div class="col-md-4">
+                <h2>T-bone steak</h2>
+                <i>A T-bone steak contains a strip of the top loin and a chunk of tenderloin.</i>
+            </div>
+        </div>
+
+        <img src="https://images.app.goo.gl/EZTDx4JqeTV4sV3f6" alt="Steak" class="img-fluid">
+    </div>
+</body>
+
+</html>

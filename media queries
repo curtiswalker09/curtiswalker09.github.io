@@ -1,0 +1,27 @@
+body {
+    margin: 100px 0 0 0;
+    font-size: 22px;
+}
+
+h1 {
+    font-size: 4cm;
+}
+
+h2 {
+    font-size: 1.1cm;
+    text-transform: uppercase;
+}
+
+img {
+    margin: 20px 0 0 0;
+}
+
+
+
+media {
+    max-width: 450px;
+}
+
+h1 {
+    font-size: 1.5cm;
+}
