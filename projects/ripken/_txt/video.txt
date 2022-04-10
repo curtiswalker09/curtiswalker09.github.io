@@ -1,0 +1,1 @@
+<video src="filename.mp4" autoplay muted></video>
